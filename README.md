@@ -15,6 +15,8 @@
   ![springSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
   ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
   ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/redis-F05033.svg?style=for-the-badge&logo=redis&logoColor=#FF4438" />
+  <img src="https://img.shields.io/badge/docker-F05033.svg?style=for-the-badge&logo=doker&logoColor=#2496ED" />
 <br>
 
 <br>
@@ -23,12 +25,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/postman-F3F3F3.svg?style=for-the-badge&logo=postman&logoColor=#FF6C37" />&nbsp
+  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
 <br>
